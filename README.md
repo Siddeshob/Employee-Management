@@ -1,6 +1,6 @@
 # Repository Name: Employee-Management-System
 
-Description:
+Description: 
 This GitHub repository hosts a comprehensive Employee Management System built using the Spring Boot framework, Thymeleaf for the front-end, and MySQL as the backend database. This system provides a user-friendly interface for managing employee data, allowing users to read, add, update, and delete employee records from the employee list.
 
 Key Features:
